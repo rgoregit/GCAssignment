@@ -13,8 +13,9 @@ unzip data, merges data from the to produce averages values per activity per sub
 Refer to the included codebook.md for more information.
 
 #### Usage
-download and Run the script run_analysis.R This script generates a text file output in current working directory.
-If zip file is downloaded in current working directory the script will skip download step. 
+Download and Run the script run_analysis.R from console or from RStudio
+This script generates a text file output in current working directory.
+
 
 #### References
 [A full description is available at the site Human Activity Recognition using Smartphone ](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)

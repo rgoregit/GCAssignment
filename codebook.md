@@ -33,3 +33,4 @@ This step helps to assure generated file has clean/tidy data for further data an
 load the generated TidyData.txt file into a data set
 
 Run R Script file run_analysis.R from console.
+If zip file is downloaded in current working directory the script will skip download step. 
